@@ -10,8 +10,6 @@ This repository contains the solution to the assignment tasks involving Explorat
 - [Task 3: Customer Segmentation / Clustering](#task-3-customer-segmentation--clustering)
 - [Deliverables](#deliverables)
 - [How to Run](#how-to-run)
-- [Requirements](#requirements)
-- [Author](#author)
 
 ---
 
